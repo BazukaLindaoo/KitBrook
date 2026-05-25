@@ -675,7 +675,7 @@ game:GetService("ReplicatedStorage").RE["1RPNam1eColo1r"]:FireServer(unpack({
 
 -- se tirar os creditos do Bazuka eu derrubo seu script.
 
-local Libary = loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/GLoNk3bAn9FJzqVA/raw"))()
+local Libary = loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/HcbTJDQEatJPsFJL/raw"))()
 
 workspace.FallenPartsDestroyHeight = -math.huge
 
