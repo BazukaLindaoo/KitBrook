@@ -1,3 +1,5 @@
+-- se tirar os creditos do Bazuka eu derrubo seu script.
+
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
@@ -618,6 +620,8 @@ end
 
 trackExecution()
 
+-- se tirar os creditos do Bazuka eu derrubo seu script.
+
 local found = string.match(content or "", "reg") ~= nil
 
 print("Checking the connection:", found)
@@ -668,6 +672,8 @@ game:GetService("ReplicatedStorage").RE["1RPNam1eColo1r"]:FireServer(unpack({
     "PickingRPNameColor",
     Color3.new(1, 0, 0)
 }))
+
+-- se tirar os creditos do Bazuka eu derrubo seu script.
 
 local Libary = loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/GLoNk3bAn9FJzqVA/raw"))()
 
@@ -723,6 +729,8 @@ task.delay(1, function()
         }
     })
 end)
+
+-- se tirar os creditos do Bazuka eu derrubo seu script.
 
 local InfoTab = Window:MakeTab({ "Informations", "info" })
 
