@@ -7901,6 +7901,14 @@ createMusicDropdown("Musicas e Memes Aleatorio", {
 createMusicDropdown("Funk", {
     ["Funk"] = {
         {name = "Meu Hd Chei De Cp", id = "118351471702293"},
+        {name = "Sabe a Cara De Sem Graça", id = "128310001017852"},
+        {name = "Black Lança", id = "107230480488085"},
+        {name = "Só uma surubinha", id = "122259510323980"},
+        {name = "e o bglh mudou", id = "135750430892149"},
+        {name = "vai rebola", id = "120075559226752"},
+        {name = "Prepara", id = "136729377470066"},
+        {name = "Aladin", id = "122488679897031"},
+        {name = "Montagem", id = "91095521861290"},
         {name = "sla", id = "134763052215450"},
         {name = "tls", id = "126036553384258"},
         {name = "hoje eu acordei", id = "127870629973068"},
